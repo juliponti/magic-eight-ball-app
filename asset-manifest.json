@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/magic-eight-ball-app/static/css/main.4b55dbcf.css",
+    "main.js": "/magic-eight-ball-app/static/js/main.a68ad0cc.js",
+    "static/js/787.63541d96.chunk.js": "/magic-eight-ball-app/static/js/787.63541d96.chunk.js",
+    "static/media/background.jpg": "/magic-eight-ball-app/static/media/background.47769787b20082588290.jpg",
+    "index.html": "/magic-eight-ball-app/index.html",
+    "main.4b55dbcf.css.map": "/magic-eight-ball-app/static/css/main.4b55dbcf.css.map",
+    "main.a68ad0cc.js.map": "/magic-eight-ball-app/static/js/main.a68ad0cc.js.map",
+    "787.63541d96.chunk.js.map": "/magic-eight-ball-app/static/js/787.63541d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b55dbcf.css",
+    "static/js/main.a68ad0cc.js"
+  ]
+}
