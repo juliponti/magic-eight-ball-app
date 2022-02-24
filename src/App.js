@@ -1,5 +1,6 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef } from "react";
 import { BsQuestionLg as Icon } from "react-icons/bs";
+import GithubLogo from "./assets/icons8-github.svg";
 
 function App() {
   const [userInput, setUserInput] = useState("");
@@ -104,6 +105,24 @@ function App() {
           </div>
         </div>
       </main>
+      <footer className=" font-sanserif flex justify-evenly font-semibold items-center w-full max-w-[319px] h-11 m-auto">
+        <span className=" text-xl text-indigo-800">
+          {" "}
+          Designed and coded by{" "}
+        </span>
+        <a
+          href="https://github.com/juliponti"
+          className="relative text-xl text-details w-[66px]"
+          target="_blank"
+        >
+          me
+          <img
+            src={GithubLogo}
+            alt="Github Logo"
+            className="absolute right-0 top-0"
+          />
+        </a>
+      </footer>
     </div>
   );
 }
