@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/magic-eight-ball-app/static/css/main.0073e37c.css",
-    "main.js": "/magic-eight-ball-app/static/js/main.443ad4e6.js",
+    "main.css": "/magic-eight-ball-app/static/css/main.bfc0f259.css",
+    "main.js": "/magic-eight-ball-app/static/js/main.fb78cac1.js",
     "static/js/787.63541d96.chunk.js": "/magic-eight-ball-app/static/js/787.63541d96.chunk.js",
     "static/media/background.jpg": "/magic-eight-ball-app/static/media/background.47769787b20082588290.jpg",
     "static/media/icons8-github.svg": "/magic-eight-ball-app/static/media/icons8-github.21f8dd544d33b0c7f9ff7065d108206d.svg",
     "index.html": "/magic-eight-ball-app/index.html",
-    "main.0073e37c.css.map": "/magic-eight-ball-app/static/css/main.0073e37c.css.map",
-    "main.443ad4e6.js.map": "/magic-eight-ball-app/static/js/main.443ad4e6.js.map",
+    "main.bfc0f259.css.map": "/magic-eight-ball-app/static/css/main.bfc0f259.css.map",
+    "main.fb78cac1.js.map": "/magic-eight-ball-app/static/js/main.fb78cac1.js.map",
     "787.63541d96.chunk.js.map": "/magic-eight-ball-app/static/js/787.63541d96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0073e37c.css",
-    "static/js/main.443ad4e6.js"
+    "static/css/main.bfc0f259.css",
+    "static/js/main.fb78cac1.js"
   ]
 }
