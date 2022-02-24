@@ -93,8 +93,8 @@ function App() {
                   className=" hidden relative bottom-[-34px] left-[1px] border-t-[70px] border-b-[70px] border-l-[150px] md:bottom-[-58px] md:left-[-8px] md:border-l-[180px] border-l-indigo-700 md:border-t-[100px] md:border-b-[100px] border-y-transparent rotate-[96deg] skew-y-1 drop-shadow-3xl "
                 >
                   <h3
-                    className="absolute w-[85px] right-[68px] top-[-34px] text-center
-                  md:top-[-47px] md:right-[116px] md:w-[107px] md:text-left font-mono text-xl rotate-[270deg] uppercase"
+                    className="absolute w-[85px] right-[68px] top-[-34px] text-center text-base
+                  md:top-[-47px] md:right-[116px] md:w-[107px] md:text-left font-mono md:text-xl rotate-[270deg] uppercase"
                   >
                     {answer}
                   </h3>
