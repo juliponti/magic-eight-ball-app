@@ -105,21 +105,21 @@ function App() {
           </div>
         </div>
       </main>
-      <footer className=" font-sanserif flex justify-evenly font-semibold items-center w-full max-w-[319px] h-11 m-auto">
-        <span className=" text-xl text-indigo-800">
+      <footer className=" font-sanserif flex justify-evenly font-semibold items-center w-full max-w-[263px] md:max-w-[319px] h-11 m-auto">
+        <span className=" text-base md:text-xl text-indigo-800">
           {" "}
           Designed and coded by{" "}
         </span>
         <a
           href="https://github.com/juliponti"
-          className="relative text-xl text-details w-[66px]"
+          className="relative text-base md:text-xl text-details w-[60px]"
           target="_blank"
         >
           me
           <img
             src={GithubLogo}
             alt="Github Logo"
-            className="absolute right-0 top-0"
+            className="absolute right-0 top-[-3px]"
           />
         </a>
       </footer>
